@@ -193,9 +193,8 @@ Application professionnelle du ML en santé, axée sur performance, robustesse e
 ---
 
 ## 18. Architecture technique
-**Backend** : FastAPI, Pydantic, REST  
-**Frontend** : React + Vite, Dashboard interactif  
-**Déploiement** : Docker, Docker Compose, services isolés  
+![Capture d'écran](Architecture_technique.png)
+
 
 ---
 
