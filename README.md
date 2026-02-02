@@ -1,5 +1,4 @@
 # End-to-End-Machine-Learning-System-for-ICU-Patient-Survival-Prediction
-# 🏥 Cahier de Charges – Projet Machine Learning en Santé
 
 ## Table des matières
 1. [Contexte du projet](#1-contexte-du-projet)
